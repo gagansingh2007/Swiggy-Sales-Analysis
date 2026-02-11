@@ -6,6 +6,8 @@ This project focuses on analyzing Swiggy food delivery data to uncover insights 
 The analysis helps understand how factors like ratings, cuisine types, delivery time, and cost influence customer choices.
 
 The complete analysis report and code are uploaded in this repository.
+<img width="1852" height="854" alt="Swiggy Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/559a97cd-907b-4e43-8af9-60a199ab425d" />
+
 
 ---
 
