@@ -103,6 +103,12 @@ To analyze Swiggy’s sales data and generate insights for:
 
 ---
 
+## 🖼 Dashboard Preview
+
+<img width="1852" height="854" alt="Swiggy Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/84c5e19b-fcd4-4656-a4fd-ab9674c2c96e" />
+
+---
+
 ## 🛠 Tools & Techniques Used
 
 * **Microsoft Excel**
@@ -130,11 +136,6 @@ To analyze Swiggy’s sales data and generate insights for:
 
 ---
 
-## 🖼 Dashboard Preview
-
-<img width="1852" height="854" alt="Swiggy Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/84c5e19b-fcd4-4656-a4fd-ab9674c2c96e" />
-
----
 
 ## 🚀 Conclusion
 
