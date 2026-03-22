@@ -14,6 +14,12 @@ An interactive Excel dashboard was created to help stakeholders quickly understa
 
 ---
 
+## 🖼 Dashboard Preview
+
+<img width="1852" height="854" alt="Swiggy Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/84c5e19b-fcd4-4656-a4fd-ab9674c2c96e" />
+
+---
+
 ## 🎯 Problem Statement
 
 To analyze Swiggy’s sales data and generate insights for:
@@ -100,12 +106,6 @@ To analyze Swiggy’s sales data and generate insights for:
 * Sales are consistent across weeks
 * Peak observed around **Week 8**
 * Stable demand throughout the year
-
----
-
-## 🖼 Dashboard Preview
-
-<img width="1852" height="854" alt="Swiggy Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/84c5e19b-fcd4-4656-a4fd-ab9674c2c96e" />
 
 ---
 
